@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Web của Nolandz</title>
+    <style>
+        body {
+            background: #0f172a;
+            color: #e5e7eb;
+            font-family: Arial;
+            text-align: center;
+            padding-top: 100px;
+        }
+        button {
+            padding: 12px 25px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>you won the second challange</h1>
+    <p>Website đầu tiên của Nolandz</p>
+
+    <button onclick="alert('Welcome')">
+        alr
+    </button>
+
+</body>
+</html>
